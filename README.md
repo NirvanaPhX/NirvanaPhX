@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NirvanaPhX
 - 👀 I’m interested in Coding and PenTesting
-- 🌱 I’m currently learning Java, Front-end and Oracle SQL.
+- 🌱 I’m currently learning Java, React and Algorithm.
 - 💞️ I’m looking to collaborate on ...
 
 
